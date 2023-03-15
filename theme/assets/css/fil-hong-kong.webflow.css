@@ -301,7 +301,7 @@ a {
 }
 
 .text-4 {
-  opacity: 0.6;
+  opacity: 1;
   font-family: Lato, sans-serif;
   color: #121417;
   font-size: 24px;
@@ -972,6 +972,235 @@ a {
   text-align: left;
 }
 
+.registration {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: #f9f2ec;
+}
+
+._2-columns {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+}
+
+.f2wf-columns-2 {
+  position: relative;
+  width: 100vw;
+  margin-top: auto;
+}
+
+.column-3 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 75vw;
+  height: 80vh;
+  max-height: 80vh;
+  padding: 24px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  background-image: var(--image-i57cd5a6b);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.rectangle-3050 {
+  position: static;
+  overflow: auto;
+  width: auto;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  -webkit-box-ordinal-group: 1;
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.column-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  padding: 24px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  align-self: center;
+  grid-column-gap: 48px;
+  grid-row-gap: 48px;
+}
+
+.logos-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-column-gap: 11.250000953674316px;
+  grid-row-gap: 11.250000953674316px;
+}
+
+.vectors-wrapper-11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 177.08352661132812px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.text-9 {
+  width: 25vw;
+  color: #121417;
+  font-size: 23px;
+  line-height: 120.00000476837158%;
+  font-weight: undefined;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.vectors-wrapper-12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-0 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 23px;
+  line-height: 120.00000476837158%;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-1 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 23px;
+  line-height: 120.00000476837158%;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.html-embed {
+  width: 50vw;
+}
+
 @media screen and (max-width: 991px) {
   .f2wf-columns {
     padding-bottom: 0px;
@@ -1051,6 +1280,41 @@ a {
   .image-3 {
     height: 25%;
   }
+
+  .f2wf-columns-2 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .column-3 {
+    overflow: visible;
+    width: 100vw;
+    height: auto;
+    min-height: 40vh;
+    min-width: 40vw;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .text-9 {
+    width: 80vw;
+  }
+
+  .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-0 {
+    width: 80vw;
+  }
+
+  .html-embed {
+    width: 80vw;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -1113,6 +1377,18 @@ a {
     top: auto;
     right: 0%;
     bottom: 0%;
+  }
+
+  .column-3 {
+    width: 100vw;
+    background-position: 50% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .vectors-wrapper-11 {
+    height: 150px;
   }
 }
 
@@ -1189,5 +1465,37 @@ a {
     top: auto;
     right: 0%;
     bottom: 0%;
+  }
+
+  .f2wf-columns-2 {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+
+  .column-3 {
+    width: 100vw;
+    max-height: 80vh;
+    min-height: 20vh;
+    min-width: 100vw;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    border-radius: 0px;
+    background-position: 50% 0%;
+    background-size: contain;
+    background-attachment: fixed;
+  }
+
+  .vectors-wrapper-11 {
+    height: 70px;
+  }
+
+  .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-0 {
+    font-size: 18px;
+  }
+
+  .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-1 {
+    font-size: 18px;
   }
 }

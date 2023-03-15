@@ -180,9 +180,9 @@ collections:
             label: Text
             name: 2a79013d
             widget: string
-          - hint: 'Original text: Register Soon..., key: -5d573d2a'
+          - hint: 'Original text: Register now, key: -5c165007'
             label: Text
-            name: '-5d573d2a'
+            name: '-5c165007'
             widget: string
           - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
             label: Text
@@ -218,6 +218,20 @@ collections:
             label: Text
             name: '-4ad5204b'
             widget: string
+          - hint: >-
+              Original text: Register here to join the Filecoin community and
+              our partners this April 12–15 at the , key: 1bb75e37
+            label: Text
+            name: 1bb75e37
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: FIL Hong Kong Network Base., key: -dd0920f'
+            label: Text
+            name: '-dd0920f'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -226,9 +240,9 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: #, key: 23'
+          - hint: 'Original link: /register, key: f6c8fd2'
             label: Link
-            name: '23'
+            name: f6c8fd2
             widget: string
           - hint: 'Original link: https://filecoin.io/, key: 1f2c24b7'
             label: Link
@@ -263,6 +277,19 @@ collections:
             name: title
             widget: hidden
             default: Images
+          - label: Image
+            name: i57cd5a6b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
           - label: Image
             name: '-132d259c'
             widget: object
@@ -356,6 +383,19 @@ collections:
                 required: false
           - label: Image
             name: '-293cd7da'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-292ec059'
             widget: object
             fields:
               - name: url
