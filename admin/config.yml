@@ -168,9 +168,9 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Save The Date, key: b644160'
+          - hint: 'Original text: Registration is live!, key: -4396725a'
             label: Text
-            name: b644160
+            name: '-4396725a'
             widget: string
           - hint: 'Original text: April 12–15, 2023, key: 4fe104ef'
             label: Text
