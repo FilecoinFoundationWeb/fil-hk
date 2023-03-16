@@ -3,6 +3,10 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: inline-block;
+}
+
 .index {
   position: static;
   display: -webkit-box;
@@ -88,7 +92,6 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 50vw;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -1197,11 +1200,6 @@ a {
 }
 
 @media screen and (max-width: 991px) {
-  .small-container {
-    width: 448vw;
-    max-width: 90vw;
-  }
-
   .text {
     min-width: auto;
   }
@@ -1276,6 +1274,10 @@ a {
   .div-block-2 {
     z-index: 0;
     width: 40%;
+  }
+
+  .div-block-2.buddha {
+    width: 50vw;
   }
 
   .div-block-2.gate {
@@ -1403,7 +1405,7 @@ a {
   }
 
   .text {
-    font-size: 38px;
+    font-size: 30.4px;
   }
 
   .text-2 {
@@ -1415,7 +1417,7 @@ a {
   }
 
   .text-4 {
-    font-size: 19px;
+    font-size: 15px;
     text-align: center;
   }
 
@@ -1433,22 +1435,10 @@ a {
   }
 
   .frame-47426 {
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
     -webkit-align-self: auto;
     -ms-flex-item-align: auto;
     -ms-grid-row-align: auto;
     align-self: auto;
-  }
-
-  .frame-47427 {
-    width: 80vw;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
   }
 
   .vectors-wrapper-9 {
@@ -1466,7 +1456,6 @@ a {
     top: auto;
     right: auto;
     bottom: 0%;
-    width: 60vw;
   }
 
   .div-block-2.gate {
@@ -1474,6 +1463,13 @@ a {
     top: auto;
     right: 0%;
     bottom: 0%;
+    width: 40vw;
+    height: auto;
+  }
+
+  .image-2 {
+    width: 90vw;
+    height: 300px;
   }
 
   .f2wf-columns-2 {
