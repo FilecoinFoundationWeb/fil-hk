@@ -946,6 +946,7 @@ img {
 
 .div-block-2.buddha {
   width: 35vw;
+  height: auto;
 }
 
 .div-block-2.gate {
@@ -969,6 +970,10 @@ img {
   padding-right: 0px;
   padding-left: 0px;
   text-align: left;
+}
+
+.image-3 {
+  height: auto;
 }
 
 .registration {
@@ -1199,6 +1204,17 @@ img {
   width: 50vw;
 }
 
+.div-block-3 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 0;
+  width: 40vw;
+  height: auto;
+}
+
 @media screen and (max-width: 991px) {
   .text {
     min-width: auto;
@@ -1278,6 +1294,7 @@ img {
 
   .div-block-2.buddha {
     width: 50vw;
+    height: auto;
   }
 
   .div-block-2.gate {
@@ -1285,10 +1302,6 @@ img {
     top: auto;
     right: 0%;
     bottom: 0%;
-  }
-
-  .image-3 {
-    height: 25%;
   }
 
   .f2wf-columns-2 {
@@ -1379,13 +1392,6 @@ img {
     align-self: auto;
   }
 
-  .div-block-2.gate {
-    left: auto;
-    top: auto;
-    right: 0%;
-    bottom: 0%;
-  }
-
   .column-3 {
     width: 100vw;
     background-position: 50% -100px;
@@ -1449,13 +1455,6 @@ img {
   .vectors-wrapper-10 {
     width: auto;
     height: 24px;
-  }
-
-  .div-block-2.buddha {
-    left: 0%;
-    top: auto;
-    right: auto;
-    bottom: 0%;
   }
 
   .div-block-2.gate {
