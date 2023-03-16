@@ -1,3 +1,10 @@
+body {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+
 a {
   color: #fff;
   text-decoration: none;
@@ -312,6 +319,10 @@ img {
   font-weight: 700;
   letter-spacing: 0em;
   text-transform: uppercase;
+}
+
+.text-4.inverse {
+  color: #fff;
 }
 
 .footer {
@@ -904,6 +915,23 @@ img {
   text-decoration: none;
 }
 
+.button-2.primary {
+  position: static;
+  top: 40px;
+  right: 40px;
+}
+
+.button-2.primary.language {
+  position: absolute;
+  color: #000;
+  font-weight: 700;
+}
+
+.button-2.secondary {
+  background-color: #172736;
+  box-shadow: 8px -8px 0 0 #0090ff;
+}
+
 .footer-2 {
   position: relative;
   left: 0%;
@@ -1048,7 +1076,7 @@ img {
   align-items: center;
   grid-column-gap: 24px;
   grid-row-gap: 24px;
-  background-image: var(--image-i57cd5a6b);
+  background-image: var(--image-i57bf42ea);
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1215,6 +1243,248 @@ img {
   height: auto;
 }
 
+.registration-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: #f9f2ec;
+}
+
+._2-columns-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+}
+
+.f2wf-columns-3 {
+  width: 100vw;
+}
+
+.column-5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: auto;
+  max-width: 40vw;
+  min-height: 1488px;
+  min-width: 340px;
+  padding: 24px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  background-image: var(--image-i13e1af84);
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.rectangle-3051 {
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.column-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: auto;
+  height: auto;
+  padding: 48px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  grid-column-gap: 48px;
+  grid-row-gap: 48px;
+}
+
+.text-10 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 45px;
+  line-height: 139.9999976158142%;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.text-11 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 29px;
+  line-height: 139.9999976158142%;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.text-12 {
+  font-family: Lato, sans-serif;
+  color: #cc3339;
+  font-size: 29px;
+  line-height: 139.9999976158142%;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0em;
+}
+
+.a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23 {
+  max-width: 50vw;
+  color: #121417;
+  font-size: 23px;
+  line-height: 139.9999976158142%;
+  font-weight: undefined;
+  letter-spacing: 0em;
+}
+
+.frame-47428 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 50vw;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+}
+
+.text-13 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 29px;
+  line-height: 139.9999976158142%;
+  font-weight: 700;
+  letter-spacing: 0em;
+}
+
+.vectors-wrapper-13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23-0 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 18px;
+  line-height: 139.9999976158142%;
+  font-weight: 400;
+  letter-spacing: 0em;
+}
+
+.a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23-1 {
+  font-family: Lato, sans-serif;
+  color: #121417;
+  font-size: 18px;
+  line-height: 139.9999976158142%;
+  font-weight: 700;
+  letter-spacing: 0em;
+}
+
+.html-embed-2 {
+  width: 50vw;
+}
+
+.div-block-4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  grid-column-gap: 48px;
+  grid-row-gap: 48px;
+}
+
 @media screen and (max-width: 991px) {
   .text {
     min-width: auto;
@@ -1337,6 +1607,69 @@ img {
   .html-embed {
     width: 80vw;
   }
+
+  .f2wf-columns-3 {
+    width: 100vw;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .column-5 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100vw;
+    max-width: 100vw;
+    min-height: 226px;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+    background-position: 50% 0%;
+  }
+
+  .column-6 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    -ms-grid-row-align: auto;
+    align-self: auto;
+  }
+
+  .a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23 {
+    max-width: 100vw;
+  }
+
+  .frame-47428 {
+    max-width: 100vw;
+  }
+
+  .text-13 {
+    max-width: 100vw;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -1403,6 +1736,16 @@ img {
   .vectors-wrapper-11 {
     height: 150px;
   }
+
+  .column-5 {
+    min-height: 210px;
+    background-position: 50% 4%;
+    background-size: 990px;
+  }
+
+  .text-10 {
+    width: 60vw;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -1457,6 +1800,16 @@ img {
     height: 24px;
   }
 
+  .button-2.primary.language.tc {
+    top: 20px;
+    right: 20px;
+  }
+
+  .button-2.primary.language.en {
+    top: 20px;
+    right: 20px;
+  }
+
   .div-block-2.gate {
     left: auto;
     top: auto;
@@ -1498,5 +1851,42 @@ img {
 
   .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-1 {
     font-size: 18px;
+  }
+
+  .column-5 {
+    min-height: 240px;
+    background-position: 50% 1%;
+    background-size: 990px;
+  }
+
+  .column-6 {
+    padding: 36px;
+    grid-column-gap: 36px;
+    grid-row-gap: 36px;
+  }
+
+  .text-10 {
+    width: 80vw;
+    font-size: 36px;
+  }
+
+  .text-11 {
+    font-size: 23px;
+  }
+
+  .text-12 {
+    font-size: 23px;
+  }
+
+  .a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23 {
+    font-size: 18px;
+  }
+
+  .text-13 {
+    font-size: 23px;
+  }
+
+  .html-embed-2 {
+    width: 80vw;
   }
 }
