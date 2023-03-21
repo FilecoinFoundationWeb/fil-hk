@@ -1081,6 +1081,10 @@ img {
   background-size: cover;
 }
 
+.column-3.fhk-img {
+  background-image: var(--image-i57cd5a6b);
+}
+
 .rectangle-3050 {
   position: static;
   overflow: auto;
