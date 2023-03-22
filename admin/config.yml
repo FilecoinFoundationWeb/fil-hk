@@ -235,6 +235,10 @@ collections:
             label: Text
             name: '-25724cea'
             widget: string
+          - hint: 'Original text: 9am – 6pm, key: -1fc3b695'
+            label: Text
+            name: '-1fc3b695'
+            widget: string
           - hint: 'Original text: HKCEC, key: 419b83e'
             label: Text
             name: 419b83e
@@ -274,6 +278,10 @@ collections:
           - hint: 'Original text: April 15, key: 4d68021e'
             label: Text
             name: 4d68021e
+            widget: string
+          - hint: 'Original text: 2pm – 6pm, key: -17711e8b'
+            label: Text
+            name: '-17711e8b'
             widget: string
           - hint: 'Original text: Apply for DeStor HK, key: -1973fd2b'
             label: Text
