@@ -540,6 +540,10 @@ img {
 
 .button-2.primary.language {
   position: absolute;
+  left: auto;
+  top: 2%;
+  right: 2%;
+  bottom: auto;
   color: #000;
   font-weight: 700;
 }
