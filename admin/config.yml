@@ -188,6 +188,170 @@ collections:
             label: Text
             name: 3dafb76e
             widget: string
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
+          - hint: 'Original text: FIL Hong Kong, key: 510825c6'
+            label: Text
+            name: 510825c6
+            widget: string
+          - hint: >-
+              Original text: FIL Hong Kong will take place from April 12 - 15
+              across two key spaces, the Hong Kong Web3 Festival and the FIL
+              Hong Kong Network Base., key: 46d6eaa5
+            label: Text
+            name: 46d6eaa5
+            widget: text
+          - hint: >-
+              Original text: The week will feature lightning talks, workshops,
+              and plenty of coworking space, for those deep in the Filecoin
+              ecosystem and those looking to discover the world of FVM. Attend
+              the Hong Kong Web3 Festival and check out the Filecoin x IPFS
+              booth, or drop by the FIL Hong Kong Network Base to meet with
+              fellow innovators and work on driving Web3 forward. And if you’re
+              a Filecoin Storage Provider or want to explore decentralized
+              storage for your business, make sure to register for the private
+              DeStor HK event., key: 47127362
+            label: Text
+            name: '47127362'
+            widget: text
+          - hint: >-
+              Original text: We’re bringing together developers, storage
+              providers, clients, and ecosystem partners in one of the world’s
+              emerging hubs for Web3 innovation. See you in HK!, key: -fca2623
+            label: Text
+            name: '-fca2623'
+            widget: text
+          - hint: 'Original text: Explore, key: 15309273'
+            label: Text
+            name: '15309273'
+            widget: string
+          - hint: 'Original text: FIL Hong Kong Events, key: -d2edb2d'
+            label: Text
+            name: '-d2edb2d'
+            widget: string
+          - hint: 'Original text: April 12-15, key: -25724cea'
+            label: Text
+            name: '-25724cea'
+            widget: string
+          - hint: 'Original text: HKCEC, key: 419b83e'
+            label: Text
+            name: 419b83e
+            widget: string
+          - hint: 'Original text: Wan Chai, key: 165abf49'
+            label: Text
+            name: 165abf49
+            widget: string
+          - hint: 'Original text: Explore the Hong Kong Web3 Festival, key: -3a7d1366'
+            label: Text
+            name: '-3a7d1366'
+            widget: string
+          - hint: >-
+              Original text: Check out the Filecoin x IPFS booth hosted by
+              Protocol Labs to learn more about the ecosystem and recent FVM
+              launch. And don’t miss Protocol Labs CEO Juan Benet delivering a
+              virtual keynote!, key: -6eb0082b
+            label: Text
+            name: '-6eb0082b'
+            widget: text
+          - hint: 'Original text: Center space, key: -50352e65'
+            label: Text
+            name: '-50352e65'
+            widget: string
+          - hint: 'Original text: central, key: 27a6ed75'
+            label: Text
+            name: 27a6ed75
+            widget: string
+          - hint: 'Original text: Visit the FIL Hong Kong Network Base, key: 1641ac81'
+            label: Text
+            name: 1641ac81
+            widget: string
+          - hint: "Original text: We’ve got the perfect home base for your stay in HK at the city’s iconic Center building. Stop by for daily lightning talks, workshops, and coworking with fellow ecosystem contributors.\_, key: 690622d1"
+            label: Text
+            name: 690622d1
+            widget: text
+          - hint: 'Original text: April 15, key: 4d68021e'
+            label: Text
+            name: 4d68021e
+            widget: string
+          - hint: 'Original text: Apply for DeStor HK, key: -1973fd2b'
+            label: Text
+            name: '-1973fd2b'
+            widget: string
+          - hint: >-
+              Original text: DeStor HK is a private forum for Filecoin Storage
+              Providers, clients, and investors to discuss decentralized storage
+              solutions and revolutionize their business potential. Apply for an
+              invitation!, key: 6fcd4538
+            label: Text
+            name: 6fcd4538
+            widget: text
+          - hint: 'Original text: about, key: 585238d'
+            label: Text
+            name: 585238d
+            widget: string
+          - hint: 'Original text: The Venues, key: -6af7dd4d'
+            label: Text
+            name: '-6af7dd4d'
+            widget: string
+          - hint: >-
+              Original text: The week’s venues are just a short distance apart,
+              with options for a quick metro or cab trip, or a scenic walk or
+              ride on the historic city trams., key: 184f26d
+            label: Text
+            name: 184f26d
+            widget: text
+          - hint: 'Original text: Hong Kong Web3 Festival, key: -4148d08a'
+            label: Text
+            name: '-4148d08a'
+            widget: string
+          - hint: >-
+              Original text: 5F, HKCEC, 1 Expo Drive Wan Chai, Hong Kong Island,
+              key: -6fb44443
+            label: Text
+            name: '-6fb44443'
+            widget: string
+          - hint: 'Original text: MTR:, key: 24460f'
+            label: Text
+            name: 24460f
+            widget: string
+          - hint: 'Original text:  Exhibition Centre Exit B3, key: 6a024b5f'
+            label: Text
+            name: 6a024b5f
+            widget: string
+          - hint: 'Original text: DeStor HK, key: 50ec12be'
+            label: Text
+            name: 50ec12be
+            widget: string
+          - hint: >-
+              Original text: Stage 3, 5F, HKCEC, 1 Expo Drive Wan Chai, Hong
+              Kong Island, key: -685c92de
+            label: Text
+            name: '-685c92de'
+            widget: string
+          - hint: 'Original text: FIL Hong Kong Network Base, key: 311a4ddd'
+            label: Text
+            name: 311a4ddd
+            widget: string
+          - hint: >-
+              Original text: The Center Space, Level 76, The Center, 99 Queen’s
+              Road Central, Hong Kong, key: -27803563
+            label: Text
+            name: '-27803563'
+            widget: string
+          - hint: 'Original text:  Sheung Wan Exit E2, key: 2f920ab1'
+            label: Text
+            name: 2f920ab1
+            widget: string
+          - hint: 'Original text: Center Space, key: -51f81e85'
+            label: Text
+            name: '-51f81e85'
+            widget: string
+          - hint: 'Original text: hkcec, key: 5ebb05e'
+            label: Text
+            name: 5ebb05e
+            widget: string
           - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
             label: Text
             name: 21b3c91a
@@ -279,10 +443,6 @@ collections:
             label: Text
             name: '-209dc1f7'
             widget: string
-          - hint: 'Original text: DeStor HK, key: 50ec12be'
-            label: Text
-            name: 50ec12be
-            widget: string
           - hint: >-
               Original text:  - a half day event created specifically for , key:
               -250ce4b0
@@ -338,6 +498,92 @@ collections:
             label: Text
             name: 5a8f6439
             widget: text
+          - hint: 'Original text: Page title, key: 6c7f0da7'
+            label: Text
+            name: 6c7f0da7
+            widget: string
+          - hint: 'Original text: Header, key: -7f663153'
+            label: Text
+            name: '-7f663153'
+            widget: string
+          - hint: 'Original text: Detail, key: 79cf0471'
+            label: Text
+            name: 79cf0471
+            widget: string
+          - hint: 'Original text: Button, key: 77471352'
+            label: Text
+            name: '77471352'
+            widget: string
+          - hint: 'Original text: Body, key: 1fadc2'
+            label: Text
+            name: 1fadc2
+            widget: string
+          - hint: 'Original text: Style Guide, key: -7aba473'
+            label: Text
+            name: '-7aba473'
+            widget: string
+          - hint: >-
+              Original text: Pro-tips: Paste this content into a dedicated page
+              named “Style guide”. Convert each color style below to global
+              swatches so they can be used in text, borders, backgrounds, and
+              gradients. To do this, select a color style element, navigate to
+              the Background Color section in the Style panel, edit the color,
+              and add it as a global swatch., key: -7f38981d
+            label: Text
+            name: '-7f38981d'
+            widget: text
+          - hint: 'Original text: Color styles, key: -6aca5fa1'
+            label: Text
+            name: '-6aca5fa1'
+            widget: string
+          - hint: 'Original text: HK Green - #037D4B, key: -1fa7126c'
+            label: Text
+            name: '-1fa7126c'
+            widget: string
+          - hint: 'Original text: FIL Blue - #0090FF, key: 356c25f8'
+            label: Text
+            name: 356c25f8
+            widget: string
+          - hint: 'Original text: HK Red - #CC3339, key: -20a1f336'
+            label: Text
+            name: '-20a1f336'
+            widget: string
+          - hint: 'Original text: HK Gold - #FCCB36, key: -3b5dc0b4'
+            label: Text
+            name: '-3b5dc0b4'
+            widget: string
+          - hint: 'Original text: HK Sky Blue - #172736, key: -5328696c'
+            label: Text
+            name: '-5328696c'
+            widget: string
+          - hint: 'Original text: HK Ink - #121417, key: -4b652a1d'
+            label: Text
+            name: '-4b652a1d'
+            widget: string
+          - hint: 'Original text: HK Off White - #F9F2EC, key: 3ff437a8'
+            label: Text
+            name: 3ff437a8
+            widget: string
+          - hint: 'Original text: HK Mid White - #FDFAF7, key: 519c996e'
+            label: Text
+            name: 519c996e
+            widget: string
+          - hint: 'Original text: White - #FFFFFF, key: -5999f427'
+            label: Text
+            name: '-5999f427'
+            widget: string
+          - hint: >-
+              Original text: HK Grad | Blue-Black - stop 1 / 0% / #172736 stop 2
+              / 100% / #121417 , key: -3f6cb932
+            label: Text
+            name: '-3f6cb932'
+            widget: string
+          - hint: >-
+              Original text: HK Grad - RY - stop 1 / 0% / #CC3339 stop 2 / 100%
+              / #FCCB36 , key: -a450229
+            label: Text
+            name: '-a450229'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -353,6 +599,18 @@ collections:
           - hint: 'Original link: /destor-en, key: 4fbd5422'
             label: Link
             name: 4fbd5422
+            widget: string
+          - hint: >-
+              Original link: https://goo.gl/maps/sN4yDjK6r1wh5TDcA, key:
+              6e8e159e
+            label: Link
+            name: 6e8e159e
+            widget: string
+          - hint: >-
+              Original link: https://goo.gl/maps/smpUvhqPt6zfyATN8, key:
+              49fe1454
+            label: Link
+            name: 49fe1454
             widget: string
           - hint: 'Original link: https://filecoin.io/, key: 1f2c24b7'
             label: Link
@@ -431,6 +689,45 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: i491e75ab
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 58d585b3
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: c8a503c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 8bb9f0e
             widget: object
             fields:
@@ -496,6 +793,45 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-57cd5a6b'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '30e21189'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7b2c6c6d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 101fa572
             widget: object
             fields:
@@ -536,6 +872,149 @@ collections:
                 required: false
           - label: Image
             name: '-294aef5b'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1cb0c48'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1bcf4c7'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1aedd46'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1a0c5c5'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-192ae44'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-18496c3'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2920a8d8'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-29129157'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-290479d6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-28f66255'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-28e84ad4'
             widget: object
             fields:
               - name: url
