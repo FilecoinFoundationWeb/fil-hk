@@ -604,9 +604,16 @@ collections:
             label: Link
             name: f6c8fd2
             widget: string
-          - hint: 'Original link: /destor-en, key: 4fbd5422'
+          - hint: 'Original link: https://destor.io/ko/hk-tickets, key: -118ff867'
             label: Link
-            name: 4fbd5422
+            name: '-118ff867'
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.web3festival.org/hongkong2023/home?lang=en-US, key:
+              28906ddc
+            label: Link
+            name: 28906ddc
             widget: string
           - hint: >-
               Original link: https://goo.gl/maps/sN4yDjK6r1wh5TDcA, key:
@@ -648,6 +655,10 @@ collections:
           - hint: 'Original link: /destor-zh, key: 4fbd56a7'
             label: Link
             name: 4fbd56a7
+            widget: string
+          - hint: 'Original link: /destor-en, key: 4fbd5422'
+            label: Link
+            name: 4fbd5422
             widget: string
       - label: Images
         name: images
