@@ -1654,6 +1654,10 @@ img {
   background-color: #fdfaf7;
 }
 
+.hero-stack.venue {
+  background-color: #f9f2ec;
+}
+
 .small-container-2 {
   display: flex;
   width: 80vw;
@@ -1666,7 +1670,7 @@ img {
 
 .title-section {
   display: flex;
-  width: 100%;
+  width: auto;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
@@ -1676,7 +1680,7 @@ img {
 
 .frame-47435 {
   display: flex;
-  width: 100%;
+  width: 80vw;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
@@ -1881,6 +1885,10 @@ img {
   box-shadow: 16px -16px 0px #037d4b, 8px -8px 0px #f9f2ec;
   -o-object-fit: cover;
   object-fit: cover;
+}
+
+.html-embed-3 {
+  width: 80vw;
 }
 
 @media screen and (max-width: 991px) {

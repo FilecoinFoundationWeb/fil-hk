@@ -295,6 +295,10 @@ collections:
             label: Text
             name: 6fcd4538
             widget: text
+          - hint: 'Original text: The Schedule, key: -3904a65a'
+            label: Text
+            name: '-3904a65a'
+            widget: string
           - hint: 'Original text: about, key: 585238d'
             label: Text
             name: 585238d
@@ -614,6 +618,10 @@ collections:
               28906ddc
             label: Link
             name: 28906ddc
+            widget: string
+          - hint: 'Original link: //filhongkong23.sched.com/, key: -15ac7114'
+            label: Link
+            name: '-15ac7114'
             widget: string
           - hint: >-
               Original link: https://goo.gl/maps/sN4yDjK6r1wh5TDcA, key:
