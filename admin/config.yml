@@ -168,6 +168,26 @@ collections:
             name: title
             widget: hidden
             default: Texts
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
+          - hint: 'Original text: Events, key: 7c6ccd39'
+            label: Text
+            name: 7c6ccd39
+            widget: string
+          - hint: 'Original text: Schedule, key: -25bf0949'
+            label: Text
+            name: '-25bf0949'
+            widget: string
+          - hint: 'Original text: Locations, key: 3016773e'
+            label: Text
+            name: 3016773e
+            widget: string
+          - hint: 'Original text: Register Now, key: -5c16c827'
+            label: Text
+            name: '-5c16c827'
+            widget: string
           - hint: 'Original text: Registration is live!, key: -4396725a'
             label: Text
             name: '-4396725a'
@@ -180,6 +200,22 @@ collections:
             label: Text
             name: 2a79013d
             widget: string
+          - hint: >-
+              Original text: Are you a Filecoin Storage Provider or interested
+              in being one? , key: 6c91a628
+            label: Text
+            name: 6c91a628
+            widget: string
+          - hint: 'Original text: Apply for DeStorHK, key: 5a048911'
+            label: Text
+            name: 5a048911
+            widget: string
+          - hint: >-
+              Original text:  — our 1 day conference focused on the storage
+              provider community!, key: -5d7dc94
+            label: Text
+            name: '-5d7dc94'
+            widget: string
           - hint: 'Original text: Register now, key: -5c165007'
             label: Text
             name: '-5c165007'
@@ -187,10 +223,6 @@ collections:
           - hint: 'Original text: Apply for Destor, key: 3dafb76e'
             label: Text
             name: 3dafb76e
-            widget: string
-          - hint: 'Original text: About, key: 3c2336d'
-            label: Text
-            name: 3c2336d
             widget: string
           - hint: 'Original text: FIL Hong Kong, key: 510825c6'
             label: Text
@@ -604,13 +636,17 @@ collections:
             name: title
             widget: hidden
             default: Links
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
           - hint: 'Original link: /register, key: f6c8fd2'
             label: Link
             name: f6c8fd2
             widget: string
-          - hint: 'Original link: https://destor.io/ko/hk-tickets, key: -118ff867'
+          - hint: 'Original link: https://destor.io/hk-tickets, key: b7fcbcc'
             label: Link
-            name: '-118ff867'
+            name: b7fcbcc
             widget: string
           - hint: >-
               Original link:
@@ -618,6 +654,10 @@ collections:
               28906ddc
             label: Link
             name: 28906ddc
+            widget: string
+          - hint: 'Original link: https://destor.io/ko/hk-tickets, key: -118ff867'
+            label: Link
+            name: '-118ff867'
             widget: string
           - hint: 'Original link: //filhongkong23.sched.com/, key: -15ac7114'
             label: Link
@@ -743,6 +783,45 @@ collections:
                 required: false
           - label: Image
             name: c8a503c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-15a5040'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-1767f42'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-16867c1'
             widget: object
             fields:
               - name: url
