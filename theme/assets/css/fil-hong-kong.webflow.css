@@ -207,6 +207,10 @@ img {
   text-align: center;
 }
 
+.text-4.button-d.sched {
+  color: #fff;
+}
+
 .footer {
   display: flex;
   width: 100%;
@@ -555,6 +559,11 @@ img {
   padding: 6px 12px;
   border-width: 2px;
   box-shadow: none;
+}
+
+.button-2.primary.schedule {
+  background-color: #cc3339;
+  box-shadow: 8px -8px 0 0 #f9f2ec, 15px -15px 0 0 #fccb36;
 }
 
 .button-2.secondary {
@@ -2266,6 +2275,10 @@ img {
   align-items: center;
   grid-column-gap: 48px;
   grid-row-gap: 48px;
+}
+
+.f2wf-columns-5 {
+  width: 100vw;
 }
 
 .logo-wrapper-2 {

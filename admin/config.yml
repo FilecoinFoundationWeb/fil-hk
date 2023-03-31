@@ -188,9 +188,9 @@ collections:
             label: Text
             name: '-5c165007'
             widget: string
-          - hint: 'Original text: Registration is live!, key: -4396725a'
+          - hint: 'Original text: check out the schedule!, key: -1e467aef'
             label: Text
-            name: '-4396725a'
+            name: '-1e467aef'
             widget: string
           - hint: 'Original text: April 12–15, 2023, key: 4fe104ef'
             label: Text
@@ -200,17 +200,17 @@ collections:
             label: Text
             name: 2a79013d
             widget: string
+          - hint: 'Original text: See schedule, key: -33ec81c'
+            label: Text
+            name: '-33ec81c'
+            widget: string
           - hint: >-
               Original text: Register to attend the Filecoin Network Base for
-              four days of exciting talks focused on Web3 trends, DeFi,
-              investors, decentralized storage, and more., key: 638ff5db
+              four days of exciting talks focused on Web3 trends, decentralized
+              storage, FVM, and more., key: 24a49739
             label: Text
-            name: 638ff5db
+            name: 24a49739
             widget: text
-          - hint: 'Original text: Apply for Destor, key: 3dafb76e'
-            label: Text
-            name: 3dafb76e
-            widget: string
           - hint: >-
               Original text: Are you a Filecoin Storage Provider or interested
               in being one? , key: 6c91a628
@@ -226,6 +226,10 @@ collections:
               provider community!, key: -5d7dc94
             label: Text
             name: '-5d7dc94'
+            widget: string
+          - hint: 'Original text: Apply for Destor, key: 3dafb76e'
+            label: Text
+            name: 3dafb76e
             widget: string
           - hint: 'Original text: FIL Hong Kong, key: 510825c6'
             label: Text
