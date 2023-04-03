@@ -711,6 +711,10 @@ collections:
             label: Text
             name: '-a450229'
             widget: string
+          - hint: 'Original text: Speakers, key: -7b61fb8c'
+            label: Text
+            name: '-7b61fb8c'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -798,6 +802,10 @@ collections:
           - hint: 'Original link: /destor-en, key: 4fbd5422'
             label: Link
             name: 4fbd5422
+            widget: string
+          - hint: 'Original link: #speakers, key: -39e13289'
+            label: Link
+            name: '-39e13289'
             widget: string
       - label: Images
         name: images
