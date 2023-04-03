@@ -2380,8 +2380,7 @@ img {
 }
 
 .f2wf-columns-6 {
-  display: -ms-grid;
-  display: grid;
+  display: flex;
   width: auto;
   height: auto;
   max-width: 90vw;
