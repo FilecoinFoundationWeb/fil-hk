@@ -172,10 +172,6 @@ collections:
             label: Text
             name: 3c2336d
             widget: string
-          - hint: 'Original text: Events, key: 7c6ccd39'
-            label: Text
-            name: 7c6ccd39
-            widget: string
           - hint: 'Original text: Speakers, key: -7b61fb8c'
             label: Text
             name: '-7b61fb8c'
@@ -771,10 +767,6 @@ collections:
           - hint: 'Original link: #about, key: 413ec14a'
             label: Link
             name: 413ec14a
-            widget: string
-          - hint: 'Original link: #events, key: -117e0504'
-            label: Link
-            name: '-117e0504'
             widget: string
           - hint: 'Original link: #speakers, key: -39e13289'
             label: Link
