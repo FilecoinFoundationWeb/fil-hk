@@ -176,6 +176,10 @@ collections:
             label: Text
             name: 7c6ccd39
             widget: string
+          - hint: 'Original text: Speakers, key: -7b61fb8c'
+            label: Text
+            name: '-7b61fb8c'
+            widget: string
           - hint: 'Original text: Schedule, key: -25bf0949'
             label: Text
             name: '-25bf0949'
@@ -200,33 +204,46 @@ collections:
             label: Text
             name: 2a79013d
             widget: string
+          - hint: 'Original text: Register to attend the , key: 4873a06d'
+            label: Text
+            name: 4873a06d
+            widget: string
+          - hint: 'Original text: Filecoin Network Base, key: -7dacd72a'
+            label: Text
+            name: '-7dacd72a'
+            widget: string
+          - hint: >-
+              Original text:  for four days of exciting talks focused on Web3
+              trends, decentralized storage, FVM, and more., key: 6338b670
+            label: Text
+            name: 6338b670
+            widget: text
           - hint: 'Original text: See schedule, key: -33ec81c'
             label: Text
             name: '-33ec81c'
             widget: string
-          - hint: >-
-              Original text: Register to attend the Filecoin Network Base for
-              four days of exciting talks focused on Web3 trends, decentralized
-              storage, FVM, and more., key: 24a49739
+          - hint: 'Original text: Join us for DeStorHK!, key: 3151f496'
             label: Text
-            name: 24a49739
+            name: 3151f496
+            widget: string
+          - hint: 'Original text: Come to DeStor HK, key: -3b712b'
+            label: Text
+            name: '-3b712b'
+            widget: string
+          - hint: >-
+              Original text: —a half day event created specifically for , key:
+              -4deccb8f
+            label: Text
+            name: '-4deccb8f'
+            widget: string
+          - hint: 'Original text: Filecoin Storage Providers, key: -43444236'
+            label: Text
+            name: '-43444236'
+            widget: string
+          - hint: "Original text: .\_ This event offers a unique opportunity to connect with other providers, hear from experts at Protocol Labs and your peers, and learn new strategies for maximizing your storage business and capabilities.\_ You’ll gain insights into the latest developments in blockchain technology (like FVM) and how they are evolving and revolutionizing your business potential., key: 4d654602"
+            label: Text
+            name: 4d654602
             widget: text
-          - hint: >-
-              Original text: Are you a Filecoin Storage Provider or interested
-              in being one? , key: 6c91a628
-            label: Text
-            name: 6c91a628
-            widget: string
-          - hint: 'Original text: Apply for DeStorHK, key: 5a048911'
-            label: Text
-            name: 5a048911
-            widget: string
-          - hint: >-
-              Original text:  — our 1 day conference focused on the storage
-              provider community!, key: -5d7dc94
-            label: Text
-            name: '-5d7dc94'
-            widget: string
           - hint: 'Original text: Apply for Destor, key: 3dafb76e'
             label: Text
             name: 3dafb76e
@@ -370,9 +387,9 @@ collections:
             label: Text
             name: 4b1a20a6
             widget: string
-          - hint: 'Original text: Founding Officer & Director, key: -788d4d70'
+          - hint: 'Original text: Founding Officer, key: 1007aa36'
             label: Text
-            name: '-788d4d70'
+            name: 1007aa36
             widget: string
           - hint: 'Original text: Longfei Wang, key: 6ea3ef95'
             label: Text
@@ -405,6 +422,42 @@ collections:
           - hint: 'Original text: Storage Provider Growth, key: -5b38f8ef'
             label: Text
             name: '-5b38f8ef'
+            widget: string
+          - hint: 'Original text: Jenks Guo, key: 4f86fe9c'
+            label: Text
+            name: 4f86fe9c
+            widget: string
+          - hint: 'Original text: Starboard, key: -869d44c'
+            label: Text
+            name: '-869d44c'
+            widget: string
+          - hint: 'Original text: Product and Operations, key: be7a166'
+            label: Text
+            name: be7a166
+            widget: string
+          - hint: 'Original text: Theo Chan, key: 7810ec14'
+            label: Text
+            name: 7810ec14
+            widget: string
+          - hint: 'Original text: PalladiumX, key: 543a18eb'
+            label: Text
+            name: 543a18eb
+            widget: string
+          - hint: 'Original text: Investor, key: 294468b8'
+            label: Text
+            name: 294468b8
+            widget: string
+          - hint: 'Original text: Steven Li, key: -2dd4ab3e'
+            label: Text
+            name: '-2dd4ab3e'
+            widget: string
+          - hint: 'Original text: IPFS-Force, key: -229be40e'
+            label: Text
+            name: '-229be40e'
+            widget: string
+          - hint: 'Original text: CTO, key: 105fe'
+            label: Text
+            name: 105fe
             widget: string
           - hint: 'Original text: More coming soon!, key: -79584d0e'
             label: Text
@@ -576,10 +629,6 @@ collections:
             label: Text
             name: '-250ce4b0'
             widget: string
-          - hint: 'Original text: Filecoin Storage Providers, key: -43444236'
-            label: Text
-            name: '-43444236'
-            widget: string
           - hint: "Original text: .\_ This event offers a unique opportunity to connect with other providers, hear from experts at Protocol Labs and your peers, and learn new strategies for maximizing your storage business and capabilities.\_ You’ll gain insights into the latest developments in blockchain technology (like FVM) and how they are evolving and revolutionizing your business potential.\_ You will also have the chance to explore new collaboration opportunities that will also help grow your business through improved utility and efficiency.\_ , key: 41f166ab"
             label: Text
             name: 41f166ab
@@ -711,10 +760,6 @@ collections:
             label: Text
             name: '-a450229'
             widget: string
-          - hint: 'Original text: Speakers, key: -7b61fb8c'
-            label: Text
-            name: '-7b61fb8c'
-            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -730,6 +775,10 @@ collections:
           - hint: 'Original link: #events, key: -117e0504'
             label: Link
             name: '-117e0504'
+            widget: string
+          - hint: 'Original link: #speakers, key: -39e13289'
+            label: Link
+            name: '-39e13289'
             widget: string
           - hint: 'Original link: #schedule, key: 1bc1bfba'
             label: Link
@@ -802,10 +851,6 @@ collections:
           - hint: 'Original link: /destor-en, key: 4fbd5422'
             label: Link
             name: 4fbd5422
-            widget: string
-          - hint: 'Original link: #speakers, key: -39e13289'
-            label: Link
-            name: '-39e13289'
             widget: string
       - label: Images
         name: images
@@ -882,6 +927,19 @@ collections:
                 required: false
           - label: Image
             name: c8a503c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 436fd6d3
             widget: object
             fields:
               - name: url
@@ -998,6 +1056,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 73c2c56c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-346130ee'
             widget: object
             fields:
@@ -1024,7 +1095,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-519c6d1c'
+            name: '-4a6e2b6b'
             widget: object
             fields:
               - name: url
@@ -1168,6 +1239,58 @@ collections:
                 required: false
           - label: Image
             name: 639483b4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '18268348'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6862b37b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '47e28024'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 2b6d07a1
             widget: object
             fields:
               - name: url
