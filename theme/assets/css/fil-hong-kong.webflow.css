@@ -2196,10 +2196,11 @@ img {
 .navbar-menu-2 {
   display: flex;
   justify-content: flex-start;
+  flex-wrap: nowrap;
   align-items: center;
   flex: 0 auto;
-  grid-column-gap: 12px;
-  grid-row-gap: 12px;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 
 .navbar-link-2 {
@@ -2277,7 +2278,8 @@ img {
 }
 
 .f2wf-columns-5 {
-  width: 100vw;
+  width: 80vw;
+  flex-wrap: wrap;
 }
 
 .logo-wrapper-2 {
