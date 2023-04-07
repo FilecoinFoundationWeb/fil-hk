@@ -423,6 +423,10 @@ collections:
             label: Text
             name: 4f86fe9c
             widget: string
+          - hint: 'Original text: Sylvan, key: -6b81c943'
+            label: Text
+            name: '-6b81c943'
+            widget: string
           - hint: 'Original text: Starboard, key: -869d44c'
             label: Text
             name: '-869d44c'
@@ -1009,7 +1013,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-295906dc'
+            name: 101fa572
             widget: object
             fields:
               - name: url
@@ -1334,7 +1338,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 101fa572
+            name: '-295906dc'
             widget: object
             fields:
               - name: url
@@ -1347,7 +1351,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-292ec059'
+            name: '-294aef5b'
             widget: object
             fields:
               - name: url
@@ -1373,7 +1377,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-294aef5b'
+            name: '-292ec059'
             widget: object
             fields:
               - name: url
