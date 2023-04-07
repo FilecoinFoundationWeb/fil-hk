@@ -760,6 +760,108 @@ collections:
             label: Text
             name: '-a450229'
             widget: string
+          - hint: 'Original text: 關於, key: 128b60'
+            label: Text
+            name: 128b60
+            widget: string
+          - hint: >-
+              Original text: FIL 香港，將於 4 月 12 日至 15 日在兩個重要場地舉行，即Hong Kong Web3
+              Festival（下稱, key: 17c9f910
+            label: Text
+            name: 17c9f910
+            widget: string
+          - hint: 'Original text: 香港 Web3 節, key: -7228e8f7'
+            label: Text
+            name: '-7228e8f7'
+            widget: string
+          - hint: 'Original text: ）和FIL Hong Kong Network Base（下稱, key: -35c7dc32'
+            label: Text
+            name: '-35c7dc32'
+            widget: string
+          - hint: 'Original text: FIL 香港聯絡基地, key: -1146d66b'
+            label: Text
+            name: '-1146d66b'
+            widget: string
+          - hint: 'Original text: ）。, key: 1f1219'
+            label: Text
+            name: 1f1219
+            widget: string
+          - hint: >-
+              Original text: 這一週將提供多個閃電式演講、研討會，和充足的共同工作空間，為那些深度了解 Filecoin
+              生態系統的人和那些希望探索 FVM 世界的人提供支援。參加香港 Web3 節，查看 Filecoin x IPFS 展位，或者拜訪
+              FIL 香港聯絡基地，與其他創新者會面，共同推動 Web3 的發展。如果您是 Filecoin
+              存儲提供者或希望探索分散式儲存服務，記得登記DeStor HK 的私人活動。, key: 6ea0e4e6
+            label: Text
+            name: 6ea0e4e6
+            widget: text
+          - hint: >-
+              Original text: 我們將開區塊鏈發人員、存儲提供商、存儲客戶和生態合作夥伴雲集在全球新興的 Web3 創新中心。
+              香港見！, key: -2c62d972
+            label: Text
+            name: '-2c62d972'
+            widget: string
+          - hint: 'Original text: FIL 香港活動, key: 4829e907'
+            label: Text
+            name: '4829e907'
+            widget: string
+          - hint: 'Original text: 探索香港 Web3 節, key: -7a51feb7'
+            label: Text
+            name: '-7a51feb7'
+            widget: string
+          - hint: >-
+              Original text: 查看 Protocol Labs 主持的 Filecoin x IPFS
+              展位，了解更多有關生態系統和最近 FVM 發布的信息。不要錯過 Protocol Labs 首席執行官 Juan Benet
+              的線上主題演講！, key: 72813b9a
+            label: Text
+            name: 72813b9a
+            widget: text
+          - hint: 'Original text: 拜訪 FIL 香港網絡基地, key: -4e8dd5fc'
+            label: Text
+            name: '-4e8dd5fc'
+            widget: string
+          - hint: >-
+              Original text:
+              我們在香港市中心具標誌性的Center大樓為您提供絕佳的位置。每天都有閃電演講、研討會和與生態系統貢獻者共同工作的機會。, key:
+              -5b6d9c54
+            label: Text
+            name: '-5b6d9c54'
+            widget: string
+          - hint: 'Original text: 申請參加 DeStor HK, key: -4108f26d'
+            label: Text
+            name: '-4108f26d'
+            widget: string
+          - hint: >-
+              Original text: DeStor HK 是一個專為 Filecoin
+              存儲提供商、存儲客戶和投資者討論分散式存儲解決方案並推動業務潛力革命的私人論壇。點擊這裡申請獲得邀請！, key: 731d9856
+            label: Text
+            name: 731d9856
+            widget: string
+          - hint: 'Original text: 場地細節, key: 296f3b0c'
+            label: Text
+            name: 296f3b0c
+            widget: string
+          - hint: >-
+              Original text: 這一周的場地距離很近，您可以選擇乘坐地鐵、出租車、歷史悠久的市區電車或步行方便到達。, key:
+              ccd8fba
+            label: Text
+            name: ccd8fba
+            widget: string
+          - hint: 'Original text: 香港灣仔博覽道1號香港會議展覽中心5樓, key: -509c2f0a'
+            label: Text
+            name: '-509c2f0a'
+            widget: string
+          - hint: 'Original text: 香港灣仔博覽道1號香港會議展覽中心5FG展覽廳3號台, key: 2507cd7'
+            label: Text
+            name: 2507cd7
+            widget: string
+          - hint: 'Original text: FIL 香港網絡基地, key: -12857e8e'
+            label: Text
+            name: '-12857e8e'
+            widget: string
+          - hint: 'Original text: 香港皇后大道中99號中環中心76樓, key: 7d9e32a0'
+            label: Text
+            name: 7d9e32a0
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
