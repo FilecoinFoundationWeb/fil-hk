@@ -459,9 +459,101 @@ collections:
             label: Text
             name: 105fe
             widget: string
-          - hint: 'Original text: More coming soon!, key: -79584d0e'
+          - hint: 'Original text: Alisa, key: 3c6a84c'
             label: Text
-            name: '-79584d0e'
+            name: 3c6a84c
+            widget: string
+          - hint: 'Original text: HashMix, key: -73343db2'
+            label: Text
+            name: '-73343db2'
+            widget: string
+          - hint: 'Original text: Operations Manager, key: 787a2b79'
+            label: Text
+            name: 787a2b79
+            widget: string
+          - hint: 'Original text: Axe, 欧阳小飞, key: -4a703883'
+            label: Text
+            name: '-4a703883'
+            widget: string
+          - hint: 'Original text: NewWebGroup, key: -7dd3bad5'
+            label: Text
+            name: '-7dd3bad5'
+            widget: string
+          - hint: 'Original text: CMO, key: 10525'
+            label: Text
+            name: '10525'
+            widget: string
+          - hint: 'Original text: Caro, key: 1fef3b'
+            label: Text
+            name: 1fef3b
+            widget: string
+          - hint: 'Original text: Senior Product Manager, key: 2be19f6c'
+            label: Text
+            name: 2be19f6c
+            widget: string
+          - hint: 'Original text: Andromeda Huang, key: 61b596f6'
+            label: Text
+            name: 61b596f6
+            widget: string
+          - hint: 'Original text: PowerMeta, key: -5630d776'
+            label: Text
+            name: '-5630d776'
+            widget: string
+          - hint: 'Original text: Co-Founder, key: -4983fcb2'
+            label: Text
+            name: '-4983fcb2'
+            widget: string
+          - hint: 'Original text: Jenni Juju, key: 2efc6d68'
+            label: Text
+            name: 2efc6d68
+            widget: string
+          - hint: 'Original text: Technical Project Manager, key: 7a11e83'
+            label: Text
+            name: 7a11e83
+            widget: string
+          - hint: 'Original text: Daniel Leon, key: 65e3af9'
+            label: Text
+            name: 65e3af9
+            widget: string
+          - hint: 'Original text: Strategic Alliances, key: -496623e4'
+            label: Text
+            name: '-496623e4'
+            widget: string
+          - hint: 'Original text: David Li, key: 725dd2e9'
+            label: Text
+            name: 725dd2e9
+            widget: string
+          - hint: 'Original text: DSPA-Asia, key: 9a5f7d7'
+            label: Text
+            name: 9a5f7d7
+            widget: string
+          - hint: 'Original text: CEO, key: 1042d'
+            label: Text
+            name: 1042d
+            widget: string
+          - hint: 'Original text: Hemant Pandit, key: 5699a3b'
+            label: Text
+            name: 5699a3b
+            widget: string
+          - hint: 'Original text: Cryptio, key: -5e58410c'
+            label: Text
+            name: '-5e58410c'
+            widget: string
+          - hint: 'Original text: Head of Revenue, key: -206b2d'
+            label: Text
+            name: '-206b2d'
+            widget: string
+          - hint: 'Original text: Steve Wong, key: 6f0d9efe'
+            label: Text
+            name: 6f0d9efe
+            widget: string
+          - hint: 'Original text: Metaone, key: -63d649df'
+            label: Text
+            name: '-63d649df'
+            widget: string
+          - hint: 'Original text: Core Community Ambassador, key: -2f3cbc97'
+            label: Text
+            name: '-2f3cbc97'
             widget: string
           - hint: 'Original text: The Schedule, key: -3904a65a'
             label: Text
@@ -835,6 +927,10 @@ collections:
               存儲提供商、存儲客戶和投資者討論分散式存儲解決方案並推動業務潛力革命的私人論壇。點擊這裡申請獲得邀請！, key: 731d9856
             label: Text
             name: 731d9856
+            widget: string
+          - hint: 'Original text: More coming soon!, key: -79584d0e'
+            label: Text
+            name: '-79584d0e'
             widget: string
           - hint: 'Original text: 場地細節, key: 296f3b0c'
             label: Text
@@ -1401,7 +1497,111 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 63a29b35
+            name: '-3aa61a9a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e7fd7b6'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e71c035'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e63a8b4'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e559133'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e4779b2'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e396231'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e1d332f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2e0f1bae'
             widget: object
             fields:
               - name: url
@@ -1623,6 +1823,19 @@ collections:
                 required: false
           - label: Image
             name: '-28e84ad4'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 63a29b35
             widget: object
             fields:
               - name: url
