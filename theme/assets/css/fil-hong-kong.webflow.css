@@ -2424,6 +2424,13 @@ img {
   grid-row-gap: 0px;
   -o-object-fit: cover;
      object-fit: cover;
+  -o-object-position: 50% 50%;
+     object-position: 50% 50%;
+}
+
+.image-8.axe {
+  -o-object-position: 50% 0%;
+     object-position: 50% 0%;
 }
 
 .info {
