@@ -3,6 +3,7 @@ backend:
   accept_roles:
     - admin
     - editor
+  branch: main
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
@@ -188,6 +189,17 @@ collections:
             label: Text
             name: '-5c165007'
             widget: string
+          - hint: 'Original text: Thank You for Joining Us!, key: 740abe0d'
+            label: Text
+            name: 740abe0d
+            widget: string
+          - hint: >-
+              Original text: Sign up for our newsletter to hear the latest on
+              upcoming events and developments in the Filecoin ecosystem, key:
+              627090d9
+            label: Text
+            name: 627090d9
+            widget: text
           - hint: 'Original text: check out the schedule!, key: -1e467aef'
             label: Text
             name: '-1e467aef'
@@ -982,9 +994,9 @@ collections:
             label: Link
             name: a98fdc7
             widget: string
-          - hint: 'Original link: /register, key: f6c8fd2'
+          - hint: 'Original link: /register/, key: -21da9563'
             label: Link
-            name: f6c8fd2
+            name: '-21da9563'
             widget: string
           - hint: 'Original link: https://destor.io/hk-tickets, key: b7fcbcc'
             label: Link
@@ -1038,13 +1050,13 @@ collections:
             label: Link
             name: 9d271d5
             widget: string
-          - hint: 'Original link: /destor-zh, key: 4fbd56a7'
+          - hint: 'Original link: /destor-zh/, key: -58128198'
             label: Link
-            name: 4fbd56a7
+            name: '-58128198'
             widget: string
-          - hint: 'Original link: /destor-en, key: 4fbd5422'
+          - hint: 'Original link: /destor-en/, key: -5812cfb3'
             label: Link
-            name: 4fbd5422
+            name: '-5812cfb3'
             widget: string
       - label: Images
         name: images
@@ -1211,7 +1223,33 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 101fa572
+            name: '-294aef5b'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2912b5ce'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-295906dc'
             widget: object
             fields:
               - name: url
@@ -1640,33 +1678,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-295906dc'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-294aef5b'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-293cd7da'
+            name: 101fa572
             widget: object
             fields:
               - name: url
@@ -1680,6 +1692,19 @@ collections:
                 required: false
           - label: Image
             name: '-292ec059'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-293cd7da'
             widget: object
             fields:
               - name: url
