@@ -14,10 +14,10 @@ collections:
     create: false
     delete: false
     slug: '{{slug}}'
-    editor:
+    editor: &ref_0
       preview: false
     folder: cms/pages
-    fields:
+    fields: &ref_1
       - label: Title
         name: title
         widget: string
@@ -75,10 +75,27 @@ collections:
             name: twitter:creator
             widget: string
             required: false
+          - label: Twitter Image
+            name: twitter:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
           - label: Additional HTML tags
             name: additional_tags
             widget: text
             required: false
+  - name: pages-zh
+    label: Pages zh
+    identifier_field: title
+    extension: md
+    create: false
+    delete: false
+    slug: '{{slug}}'
+    editor: *ref_0
+    folder: cms/pages/zh
+    fields: *ref_1
   - label: Theme Settings
     name: settings
     identifier_field: title
@@ -1223,7 +1240,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-294aef5b'
+            name: '-292ec059'
             widget: object
             fields:
               - name: url
@@ -1249,7 +1266,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-295906dc'
+            name: 101fa572
             widget: object
             fields:
               - name: url
@@ -1678,7 +1695,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 101fa572
+            name: '-295906dc'
             widget: object
             fields:
               - name: url
@@ -1691,7 +1708,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-292ec059'
+            name: '-294aef5b'
             widget: object
             fields:
               - name: url
